@@ -1,0 +1,67 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5efgZdVnVmf",
+  "title": "Công cụ quản lý môi trường và xã hội",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Cảnh không có tiêu đề"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qMzm6QTTfA",
+      "title": "CHÍNH ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6mztLfaxyLz",
+      "title": "CHÍNH ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "65ra0NNLZex",
+      "title": "Lập kế hoạch",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "63Mrt5NP1bb",
+      "title": "Thí điểm",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5pvgEOL0ZZS",
+      "title": "Thu thập",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "635yfu2IlnH",
+      "title": "Xử lý",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6U0zlAfVBYm",
+      "title": "Quản lý dữ liệu",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "66qdlVQvczt",
+      "title": "Trực quan hóa & phân tích",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6iAZ99zk38v",
+      "title": "Sử dụng",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1480,
+    "height": 1018
+  },
+  "stage": {
+    "width": 1220,
+    "height": 900
+  }
+}
